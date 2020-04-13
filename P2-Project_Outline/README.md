@@ -35,14 +35,12 @@ The user will have the ability to:
 
 ### Technologies
 
-May use Java, SpringBoot, MySQL, Thymeleaf
-OR
 MERN stack with Handlebars for templating.
--I haven't decided yet.
+(MongoDB, Express, React, Node)
 
 ### What I'll Have to Learn
 
-How to implement Google Maps API, review and relearn a ton of what i've already covered in the class
+How to implement Google Maps API, review some of the MERN technologies- which I've briefly covered in tutorials.
 
 ### Project Tracker
 

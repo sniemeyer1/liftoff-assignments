@@ -18,4 +18,4 @@ For this assignment you will need to upload your resume and provide links to you
 
 ### Resume
 
-Coming soon
+![Resume](/assets/resume-launchcode-04-2020.pdf)
